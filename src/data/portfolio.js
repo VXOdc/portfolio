@@ -12,7 +12,7 @@ export const PROFILE = {
   credly: 'https://www.credly.com/users/noah-ly/badges',
   location: 'San Francisco Bay Area',
   tagline: 'Student · Web Developer · Robotics Enthusiast',
-  bio: 'Building AI platforms, embedded systems, and web applications from Cupertino, California. Focused on intentional engineering and clean execution.',
+  bio: 'Building AI platforms, embedded systems, and web applications from San Francisco Bay Area. Focused on intentional engineering and clean execution.',
 };
 
 export const PROJECTS = [
