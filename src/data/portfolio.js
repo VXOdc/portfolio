@@ -2,7 +2,7 @@ export const IMGS = {
   syllastudy: 'https://i.ibb.co/PvvGMxcX/Screenshot-2026-05-04-202056.png',
   physicsone: 'https://i.postimg.cc/PfFBWs1s/Screenshot-2026-05-16-at-11-46-42-AM.png',
   neurocompute: 'https://i.postimg.cc/3JH2xk0C/Screenshot-2026-05-17-at-3-06-03-PM.png',
-  percepta: 'https://i.postimg.cc/mgnGcm6n/Screenshot-2026-05-29-at-10-12-02-PM.png',
+  percepta: 'https://i.postimg.cc/MZYL0RDn/Screenshot-2026-07-29-at-11-12-18-AM.png',
 };
 
 export const PROFILE = {
