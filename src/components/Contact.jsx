@@ -53,7 +53,7 @@ export function Footer() {
       <div className="site-footer-inner">
         <div>
           <p className="footer-name">{PROFILE.name}</p>
-          <p className="footer-note">Made with passion in Cupertino</p>
+          <p className="footer-note">Made with passion in San Francisco Bay Area</p>
         </div>
         <div className="footer-links">
           <a href={PROFILE.github} target="_blank" rel="noopener noreferrer" data-cursor="GitHub">
