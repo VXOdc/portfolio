@@ -10,7 +10,7 @@ export const PROFILE = {
   email: 'lynoah18@gmail.com',
   github: 'https://github.com/VXOdc',
   credly: 'https://www.credly.com/users/noah-ly/badges',
-  location: 'Cupertino, California',
+  location: 'San Francisco Bay Area',
   tagline: 'Student · Web Developer · Robotics Enthusiast',
   bio: 'Building AI platforms, embedded systems, and web applications from Cupertino, California. Focused on intentional engineering and clean execution.',
 };
