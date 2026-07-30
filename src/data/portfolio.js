@@ -124,7 +124,7 @@ export const MARQUEE_ITEMS = [
   'React',
   'Python',
   'C/C++',
-  'Cupertino',
+  'San Francisco Bay Area',
   'Open to Collaborations',
 ];
 
