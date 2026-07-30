@@ -52,8 +52,7 @@ Name:
 Noah Ly
 
 Location:
-Cupertino, California
-
+San Francisco Bay Area
 Email:
 noahly18@gmail.com
 
