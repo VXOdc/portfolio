@@ -119,7 +119,7 @@ export const LEADERSHIP = [
     role: 'President & Founder', 
     org: 'Cybersecurity Club',
     period: 'Aug 2026',
-    desc: 'Founded and lead a student cybersecurity club focused on on ethical hacking, computer science, AI, network security, and digital threats, helping students explore cybersecurity as a technical field and career path.',
+    desc: 'Founded and lead a student cybersecurity club focused on ethical hacking, computer science, AI, network security, and digital threats, helping students explore cybersecurity as a technical field and career path.',
     skills: ['Leadership', 'Cybersecurity', 'Ethical Hacking', 'Computer Science', 'Artificial Intelligence']
   } 
 ];
