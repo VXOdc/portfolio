@@ -91,7 +91,7 @@ export const PROJECTS = [
 
 export const CERTS = [
   { title: 'Claude with Anthropic API', issuer: 'Anthropic', date: 'May 2026', icon: 'https://i.ibb.co/cXKCktj6/certificate-8d9a96h8oe2k-1780019970.jpg', verify: 'https://verify.skilljar.com/c/8d9a96h8oe2k' },
-  { title: 'ROCm Certified Associate', issuer: 'AMD', date: 'Aug 2026', icon: 'https://imgbb.com/"><img src="https://i.ibb.co/DfKdpJN3/blob.png' },
+  { title: 'ROCm Certified Associate', issuer: 'AMD', date: 'Aug 2026', icon: 'https://i.ibb.co/DfKdpJN3/blob.png' },
   { title: 'Ethical Hacker', issuer: 'Cisco', date: 'May 2026', icon: 'https://i.ibb.co/M5ZrfvFZ/Screenshot-2026-05-25-at-3-37-06-PM-removebg-preview.png' },
   { title: 'HTML Essentials', issuer: 'Cisco', date: 'May 2026', icon: 'https://i.ibb.co/TxCGhNRG/Screenshot-2026-05-25-at-3-37-12-PM-removebg-preview.png' },
   { title: 'Introduction to Cybersecurity', issuer: 'Cisco', date: 'May 2026', icon: 'https://i.ibb.co/4n5VKVtS/Screenshot-2026-05-25-at-3-38-41-PM-removebg-preview.png' },
@@ -115,6 +115,13 @@ export const LEADERSHIP = [
     desc: 'Co-lead a 60+ member debate club focused on Socratic discussion and open debate around politics, philosophy, ethics, and economics.',
     skills: ['Leadership', 'Public Speaking', 'Civics', 'Economics', 'Debate'],
   },
+  {
+    role: 'President & Founder', 
+    org: 'Cybersecurity Club',
+    period: 'Aug 2026',
+    desc: 'Founded and lead a student cybersecurity club focused on on ethical hacking, computer science, AI, network security, and digital threats, helping students explore cybersecurity as a technical field and career path.',
+    skills: ['Leadership', 'Cybersecurity', 'Ethical Hacking', 'Computer Science', 'Artificial Intelligence']
+  } 
 ];
 
 export const MARQUEE_ITEMS = [
